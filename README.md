@@ -1,1 +1,1 @@
-In this project, we will review Highlight Workflow Items
+In this project, we will showcase an example rlated to Highlight Workflow Items
